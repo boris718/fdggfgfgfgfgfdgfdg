@@ -1,0 +1,38 @@
+.a{
+    display: inline-grid;
+    grid-template-columns:200px 500px 94px  ;
+    grid-template-rows:100px 200px 100px ;
+    gap: 6px;
+
+}
+.b{
+    background-color: aliceblue;
+    border: 3px solid black;
+    width: 800px;
+    
+}
+.c{
+    background-color: aliceblue;
+    border: 3px solid black;
+    grid-row-start:2 ;
+  
+}
+.d{
+    background-color: aliceblue;
+    border: 3px solid black;
+    grid-row-start:2 ;
+
+   
+}
+.e{
+    background-color: aliceblue;
+    border: 3px solid black;
+    grid-row-start:2 ;
+ 
+}
+.f{
+    background-color: aliceblue;
+    border: 3px solid black;
+    width:800px ;
+    grid-row-start:3 ;
+}

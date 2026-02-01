@@ -1,0 +1,12 @@
+.a{ 
+background-color: aqua;}
+.b{background-color: aqua;
+border: 3px solid red;
+
+height: 12vh; ;}
+.c{display: inline-grid
+    ;
+grid-template-columns: 50vh 50vh;
+grid-template-rows: 20vw 20vw;}
+.d{
+    background-color: aliceblue;}

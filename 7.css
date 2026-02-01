@@ -1,0 +1,8 @@
+.p{display: grid;
+grid-template-columns:200px 200px 200px 200px ;
+grid-template-columns:100px 100px 100px 100px;
+}
+.b{background-color: aqua;
+border: 5PX solid black;
+}
+.a{}

@@ -1,0 +1,26 @@
+.b {display:inline-grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 400px 400px;
+    gap: 10px;
+    }
+
+@media (max-width: 900px) {
+      .b {
+          display: grid;
+          grid-template-columns: 200px 200px;
+          grid-template-rows: 200px 200px;
+      }
+  }
+
+  @media (max-width: 600px) {
+      .b {
+          display: grid;
+          grid-template-columns: 100px;
+          grid-template-rows: 100px 100px;
+      }
+  }
+
+  .b {
+      background-color: aqua;
+      border: 3px solid black;
+  }
