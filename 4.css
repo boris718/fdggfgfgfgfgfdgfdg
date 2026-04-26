@@ -1,12 +1,27 @@
-.a{ 
-background-color: aqua;}
-.b{background-color: aqua;
-border: 3px solid red;
+.a{
+    display: inline-grid;
+    grid-template-columns:400px  ;
+    grid-template-rows:100px 400px 200px ;
+    gap: 6px;
 
-height: 12vh; ;}
-.c{display: inline-grid
-    ;
-grid-template-columns: 50vh 50vh;
-grid-template-rows: 20vw 20vw;}
+}
+.b{
+    background-color: aliceblue;
+    border: 3px solid black;
+   
+    
+}
 .d{
-    background-color: aliceblue;}
+    background-color: aliceblue;
+    border: 3px solid black;
+    
+
+   
+}
+
+.f{
+    background-color: aliceblue;
+    border: 3px solid black;
+
+
+}

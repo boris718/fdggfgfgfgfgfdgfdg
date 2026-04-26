@@ -1,16 +1,16 @@
-
 .a {
-    display:grid;
-    grid-template-columns:200px 200px 200px   ;
-    grid-template-rows:200px 200px   ;
+    display: grid;
+    grid-template-columns: 400px 200px;
+    grid-template-rows: 350px;
     gap: 4px;
 }
-.b{
-background-color: antiquewhite;
-border: 2px solid black;}
-.sb{
-background-color: thistle;
-border: 2px solid black
-;
-height: 400px;
+
+.b {
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+
+.sb {
+    background-color: thistle;
+    border: 2px solid black;
 }
